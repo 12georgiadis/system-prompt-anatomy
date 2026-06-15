@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please credit it as below."
+title: "system-prompt-anatomy"
+abstract: "What a leaked system prompt reveals about how a conversational chatbot is directed. Analysis (FR/EN) + the alleged Claude Fable 5 prompt, published as an unverified artifact."
+type: dataset
+authors:
+  - given-names: "Ismaël"
+    family-names: "Joffroy Chandoutis"
+    website: "https://github.com/12georgiadis"
+repository-code: "https://github.com/12georgiadis/system-prompt-anatomy"
+url: "https://github.com/12georgiadis/system-prompt-anatomy"
+license: CC-BY-NC-ND-4.0
